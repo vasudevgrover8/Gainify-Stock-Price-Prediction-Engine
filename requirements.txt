@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+tensorflow
+joblib
+lightgbm
+xgboost
+yfinance
+requests
+beautifulsoup4
+schedule
+pytest
+python-dotenv

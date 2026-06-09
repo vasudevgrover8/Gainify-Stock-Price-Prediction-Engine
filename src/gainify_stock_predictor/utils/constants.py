@@ -1,0 +1,2 @@
+DEFAULT_SEED = 42
+EPS = 1e-9
