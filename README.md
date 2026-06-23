@@ -104,6 +104,12 @@ python -m pytest -q
 
 The `.gitignore` excludes Python caches, pytest caches, build artifacts, virtual environments, local `.env` files, logs, raw and processed datasets, generated stock CSVs, trained model/checkpoint files, generated outputs, runtime state files, and notebook checkpoints. Small sample CSVs under `data/sample/` are allowed.
 
+
+## Limitations
+After working on this project, I realized that its extremely difficult for ML or DL models to predict stock prices because of the high correlation, noise and dependency of price on enormous number of factors. Using many features together causes overfitting and high computational cost whereas if you try to keep the number of features less or try to use "simple" features then the models suffer from underfitting. So, this project is just a research project and is not suitable for trading real-time.
+
+
 ## Disclaimer
 
 This project is for research only and is not financial advice. Stock-market prediction is uncertain, and any trading or investment decision is your responsibility.
+
