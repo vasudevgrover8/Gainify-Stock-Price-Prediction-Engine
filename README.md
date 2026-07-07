@@ -113,3 +113,10 @@ After working on this project, I realized that its extremely difficult for ML or
 
 This project is for research only and is not financial advice. Stock-market prediction is uncertain, and any trading or investment decision is your responsibility.
 
+## Latest Public Results: Gainify Quant Engine v2
+
+This repository includes the public results pack for **Gainify Quant Engine v2**, a newer systematic equity research pipeline focused on Indian equities.
+
+The folder `gainify_version2_Results/` contains the public performance evidence layer, including equity curve and drawdown evidence, evaluation ratios, win-rate and payoff analysis, yearly and monthly return behaviour, regime-wise performance, rolling risk evidence, exposure behaviour, top/worst trade evidence, execution realism, sanitized result tables, and strategy-vs-index comparison.
+
+The original ML/DL-based stock prediction pipeline is preserved in this repository as an earlier research version. The newer v2 results pack represents a more practical systematic portfolio research direction focused on portfolio behaviour, backtest discipline, risk control, and benchmark comparison.
